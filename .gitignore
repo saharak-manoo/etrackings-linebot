@@ -1,0 +1,16 @@
+# Ignore all .DS_Store
+**/.DS_Store
+
+# Ignore all .log
+*.log
+log/
+
+# .env*
+
+vendor/
+
+*.json
+*.env
+*.production
+.env.dev
+.env.local
