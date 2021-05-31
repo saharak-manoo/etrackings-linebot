@@ -19,6 +19,11 @@ ETRACKINGS_API_KEY=<You ETRACKINGS_API_KEY>
 ETRACKINGS_KEY_SECRET=<You ETRACKINGS_KEY_SECRET>
 ```
 
+### Load go lib
+```sh
+go mod vendor
+```
+
 ### Run
 
 ```sh
